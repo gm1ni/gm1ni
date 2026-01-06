@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hi everybody, I'm Sushi aka Lucas if you prefer !! 👋</h1>
-<h3 align="center">🇨🇵 I'm a French student in a cybersecurity school named Guardia</h3>
-
+<h1 align="center">👋 Hi everybody, I'm gm1ni aka Lucas if you prefer !! 👋</h1>
 <br>
 <br>
 
@@ -15,7 +13,6 @@
 # 💫 About Me:
 🔭 I’m currently diving deep into the world of cybersecurity, always learning something new ! <br>
 💬 Feel free to ask me anything — whether it’s about tech, cybersecurity, or random trivia, I’m always up for a good chat ! 😄 <br>
-⚡ Fun fact : The Netflix series *Mr. Robot* steered me towards cyber and ethical hacking.<br>
 👨‍💻 All of my projects are available at [**guardden.fr**](https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Error-Page.gif)
 
 <hr>
@@ -27,9 +24,6 @@
   </a>
   <a href="https://discord.gg/sushitsu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sushitsu" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/sushitsu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sushitsu" height="30" width="40"/>
   </a>
 </p>
 
