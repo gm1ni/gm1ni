@@ -13,7 +13,6 @@
 # 💫 About Me:
 🔭 I’m currently diving deep into the world of cybersecurity, always learning something new ! <br>
 💬 Feel free to ask me anything — whether it’s about tech, cybersecurity, or random trivia, I’m always up for a good chat ! 😄 <br>
-👨‍💻 All of my projects are available at [**guardden.fr**](https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Error-Page.gif)
 
 <hr>
 
